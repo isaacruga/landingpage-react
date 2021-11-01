@@ -7,7 +7,7 @@ import Jumbotron from "./jumbotron.jsx";
 //create your first component
 const Home = () => {
 	return (
-		<div className="text-center mt-5">
+		<div className="">
 			<Navbar />
 			<Jumbotron />
 			<Cards />
