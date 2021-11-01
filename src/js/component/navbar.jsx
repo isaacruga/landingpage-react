@@ -1,6 +1,6 @@
 import React from "react";
 
-const Navbar = () => {
+const Navbar = () => { //no sé cómo dejar margen entre navbar y jumbotron
 	return (
 		<nav className="navbar navbar-expand-lg bg-dark mb-5 fixed-top">
 			<div className="container-fluid ">
